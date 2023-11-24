@@ -21,7 +21,7 @@ MonoBehaviour:
     m_Value: 255
   reflectionLightingMultiplier:
     m_OverrideState: 1
-    m_Value: 0.02
+    m_Value: 1
   reflectionLightingLayers:
     m_OverrideState: 0
     m_Value: 255
@@ -304,7 +304,7 @@ MonoBehaviour:
     m_Value: 1
   fixedExposure:
     m_OverrideState: 1
-    m_Value: -2.2181962
+    m_Value: -3.4019666
   compensation:
     m_OverrideState: 0
     m_Value: 0
