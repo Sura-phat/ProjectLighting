@@ -106,7 +106,7 @@ MonoBehaviour:
     m_Value: 1
   depthExtent:
     m_OverrideState: 0
-    m_Value: 64
+    m_Value: 57.72
   denoisingMode:
     m_OverrideState: 0
     m_Value: 2
@@ -304,7 +304,7 @@ MonoBehaviour:
     m_Value: 1
   fixedExposure:
     m_OverrideState: 1
-    m_Value: -3.4019666
+    m_Value: -5
   compensation:
     m_OverrideState: 0
     m_Value: 0
