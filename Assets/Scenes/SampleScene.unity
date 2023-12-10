@@ -4654,6 +4654,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SkeletonWarriorYaxes
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 62eace110dbe3b74bb33b67ad9eba99b, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 965162ca47232034082d03d1c612a758, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -63250,6 +63254,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: AZRI
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: a5c56ba8c89e8ed45862db4e239eed6a, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 965162ca47232034082d03d1c612a758, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
